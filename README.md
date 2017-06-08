@@ -15,3 +15,4 @@
 - http://www.marcusoft.net/2015/08/npm-scripting-git-version-and-deploy.html
 - http://www.marcusoft.net/2015/08/pre-and-post-hooks-for-npm-scripting.html
 - https://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/
+- https://www.sitepoint.com/beginners-guide-node-package-manager/
