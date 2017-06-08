@@ -19,3 +19,6 @@
 - https://developer.atlassian.com/blog/2015/11/scripting-with-node/
 - https://www.youtube.com/watch?v=Sj9YRamTDsQ
 - http://cnitblogs.com/techblogs/23891.html
+
+# courses
+- https://medium.freecodecamp.com/free-online-courses-cs-programming-june-2017-96a4207bb182
