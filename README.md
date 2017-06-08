@@ -22,3 +22,6 @@
 
 # courses
 - https://medium.freecodecamp.com/free-online-courses-cs-programming-june-2017-96a4207bb182
+
+# waypoints
+- https://webdesign.tutsplus.com/categories/waypointsjs
