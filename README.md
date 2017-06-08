@@ -8,3 +8,6 @@
 
 # Egghead.io
 - https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-publishing-to-npm
+
+# npm
+- http://stackabuse.com/the-ultimate-guide-to-configuring-npm/
