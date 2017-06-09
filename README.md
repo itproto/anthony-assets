@@ -36,3 +36,5 @@
 - https://alligator.io/
 - https://www.smashingmagazine.com/
 - http://sidebar.io/
+- https://scotch.io/
+- https://www.hotjs.net/
