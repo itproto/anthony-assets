@@ -32,7 +32,7 @@
 # color palets
 - https://www.materialui.co/
 
-#blogs
+# blogs
 - https://alligator.io/
 - https://www.smashingmagazine.com/
 - http://sidebar.io/
