@@ -2,6 +2,9 @@
 - https://www.vexels.com
 - http://www.freepik.com
 - http://matthew.wagerfield.com/flat-surface-shader/
+- http://bgpatterns.com/
+- https://patterncooler.com/
+- http://patternico.com/
 
 # Tools
 - https://vectr.com
