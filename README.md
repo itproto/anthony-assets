@@ -1,12 +1,17 @@
 # Backgrounds
-- https://www.vexels.com
-- http://www.freepik.com
 - http://matthew.wagerfield.com/flat-surface-shader/
 - http://bgpatterns.com/
 - https://patterncooler.com/
 - http://patternico.com/
 
-# Tools
+# photos
+- https://www.vexels.com
+- http://www.freepik.com
+
+# icons
+- https://iconstore.co/icons/appliances-icons/
+
+# tools
 - https://vectr.com
 
 # Egghead.io
