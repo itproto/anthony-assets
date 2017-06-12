@@ -41,3 +41,6 @@
 
 # angular 4
 - https://blog.sagipl.com/angular-4-features-and-how-to-upgrade-angular-4/
+
+# nodejs
+- https://developer.atlassian.com/blog/2015/11/scripting-with-node/
