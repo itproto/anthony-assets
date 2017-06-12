@@ -29,3 +29,9 @@
         cd .
       
  ## File Permissions
+[ - | d | l ] [rwx][rwx][rwx] [rwx][rwx][rwx]  [rwx][rwx][rwx]
+
+ - The first part of the file permissions tells you if it's a file, directory or a symlink 
+ - The second part of the file permissions is the permissions for the owner 
+ - The third part of the file permissions is for the group 
+ - The fourth part of the file permissions is for all other users
