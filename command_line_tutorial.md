@@ -10,3 +10,22 @@
   - **cd**: switches to the directory you specify
   - **mkdir**: creates a new directory in the working directory
   - **touch**: creates a new file in the working directory
+  
+#### Excersises
+  - **Change to the root of the filesystem**
+    
+        cd /
+    
+ - **Change to the home directory**
+ 
+        cd ~
+    
+ - **Change to the parent directory**
+      
+        cd ..
+     
+ - **Change to the current directory**
+      
+        cd .
+      
+ ## File Permissions
