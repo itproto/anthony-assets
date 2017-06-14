@@ -9,7 +9,7 @@
 - https://patternizer.com/fo74
 - http://eskimoblood.github.io/gerstnerizer/
 
-#logo generators
+# logo generators
 - https://www.shopify.com/tools/logo-maker
 - https://www.ucraft.com/free-logo-maker
 - https://www.graphicsprings.com/
