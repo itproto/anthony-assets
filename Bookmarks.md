@@ -3,6 +3,7 @@
 - http://bgpatterns.com/
 - https://patterncooler.com/
 - http://patternico.com/
+- https://halftonepro.com/polygons
 
 # photos
 - https://www.vexels.com
