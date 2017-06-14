@@ -59,3 +59,4 @@
 
 # projects
 - https://www.sitepoint.com/fullstack-javascript-trello-clone/
+- https://www.codementor.io/angularjs/tutorial/trello-clone-angular-node-mongo-express
