@@ -56,3 +56,6 @@
 
 # webpack
 - https://www.youtube.com/watch?v=QH94CXVv3UE
+
+# projects
+- https://www.sitepoint.com/fullstack-javascript-trello-clone/
