@@ -4,6 +4,12 @@
 - https://patterncooler.com/
 - http://patternico.com/
 - https://halftonepro.com/polygons
+- https://codegena.com/generator/background-image-generator
+- http://btmills.github.io/geopattern/geopattern.html
+- https://patternizer.com/fo74
+
+# repos
+- https://github.com/wagerfield/flat-surface-shader (https://maxoffsky.com/maxoffsky-blog/free-wallpapers-generator-delaunay-triangulation-patterns/)
 
 # photos
 - https://www.vexels.com
