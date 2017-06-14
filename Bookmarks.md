@@ -7,6 +7,14 @@
 - https://codegena.com/generator/background-image-generator
 - http://btmills.github.io/geopattern/geopattern.html
 - https://patternizer.com/fo74
+- http://eskimoblood.github.io/gerstnerizer/
+
+#logo generators
+- https://www.shopify.com/tools/logo-maker
+- https://www.ucraft.com/free-logo-maker
+- https://www.graphicsprings.com/
+- http://hipsterlogogenerator.com/
+- http://www.designhill.com/tools/logo-maker
 
 # repos
 - https://github.com/wagerfield/flat-surface-shader (https://maxoffsky.com/maxoffsky-blog/free-wallpapers-generator-delaunay-triangulation-patterns/)
