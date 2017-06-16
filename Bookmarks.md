@@ -75,6 +75,8 @@
 # projects
 - https://www.sitepoint.com/fullstack-javascript-trello-clone/
 - https://www.codementor.io/angularjs/tutorial/trello-clone-angular-node-mongo-express
+- https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/
 
 # react
 - https://daveceddia.com/create-react-app-express-production/
+- 
