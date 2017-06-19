@@ -82,6 +82,7 @@
 # react
 - https://daveceddia.com/create-react-app-express-production/
 - https://codesandbox.io/
+- https://www.codementor.io/learn-reactjs
 
 # command prompt
 - http://ezprompt.net/
