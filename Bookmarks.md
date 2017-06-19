@@ -86,3 +86,6 @@
 
 # command prompt
 - http://ezprompt.net/
+
+# git
+- https://hackernoon.com/quick-tips-for-gitting-on-a-team-33533d75aea9
