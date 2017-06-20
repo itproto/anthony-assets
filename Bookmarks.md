@@ -85,7 +85,7 @@
 - https://codesandbox.io/
 - https://www.codementor.io/learn-reactjs
 - https://reactjs.co/
-- https://reactjs.co/
+- https://www.reactenlightenment.com/basic-react-components/6.9.html
 
 # command prompt
 - http://ezprompt.net/
