@@ -93,3 +93,6 @@
 
 # git
 - https://hackernoon.com/quick-tips-for-gitting-on-a-team-33533d75aea9
+
+#casts
+- https://scrimba.com
