@@ -86,6 +86,7 @@
 - https://www.codementor.io/learn-reactjs
 - https://reactjs.co/
 - https://www.reactenlightenment.com/basic-react-components/6.9.html
+- https://egghead.io/lessons/build-a-jsx-live-compiler
 
 # command prompt
 - http://ezprompt.net/
