@@ -72,6 +72,7 @@
 
 # webpack
 - https://www.youtube.com/watch?v=QH94CXVv3UE
+- http://engineering.invisionapp.com/post/optimizing-webpack/
 
 # projects
 - https://www.sitepoint.com/fullstack-javascript-trello-clone/
