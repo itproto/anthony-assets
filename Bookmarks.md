@@ -96,5 +96,8 @@
 # git
 - https://hackernoon.com/quick-tips-for-gitting-on-a-team-33533d75aea9
 
-#casts
+# casts
 - https://scrimba.com
+
+# services
+- http://cloudinary.com/pricing
