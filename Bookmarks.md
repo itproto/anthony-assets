@@ -87,6 +87,7 @@
 - https://reactjs.co/
 - https://www.reactenlightenment.com/basic-react-components/6.9.html
 - https://egghead.io/lessons/build-a-jsx-live-compiler
+- https://scotch.io/tutorials/create-a-simple-to-do-app-with-react
 
 # command prompt
 - http://ezprompt.net/
