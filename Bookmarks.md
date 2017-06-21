@@ -102,3 +102,6 @@
 
 # services
 - http://cloudinary.com/pricing
+
+# linux
+- https://www.youtube.com/watch?v=VgbnndezHbw&index=9&list=PLckPQEKYlbxebubMWdjcGR7K_ukm35ZjN
