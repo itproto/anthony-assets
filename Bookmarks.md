@@ -105,3 +105,6 @@
 
 # linux
 - https://www.youtube.com/watch?v=VgbnndezHbw&index=9&list=PLckPQEKYlbxebubMWdjcGR7K_ukm35ZjN
+
+# tedtalks
+- https://www.ted.com/talks/samuel_cohen_alzheimer_s_is_not_normal_aging_and_we_can_cure_it?utm_source=linkedin.com&utm_medium=social&utm_campaign=tedspread
