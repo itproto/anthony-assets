@@ -92,6 +92,7 @@
 - https://www.youtube.com/watch?v=-40p_dZccPg
 - https://www.youtube.com/watch?v=BwAakF_VUV8&list=PLoAsubXIl8uJugGO_VFB0Q0xe3r0Jk6C9
 - https://github.com/codewithtim/ReactJSTutorial/blob/master/Lecture%201%20Plain%20JS%20Component/2%20-%20End/index.html
+- https://www.youtube.com/watch?v=Y0r3mXh0Jag&list=PLoAsubXIl8uKWBxNNZL_-OuXtcu82-aFN
 
 # command prompt
 - http://ezprompt.net/
