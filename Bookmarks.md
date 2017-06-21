@@ -89,6 +89,7 @@
 - https://egghead.io/lessons/build-a-jsx-live-compiler
 - https://scotch.io/tutorials/create-a-simple-to-do-app-with-react
 - https://scotch.io/tutorials/build-a-mini-netflix-with-react-in-10-minutes
+- https://www.youtube.com/watch?v=-40p_dZccPg
 
 # command prompt
 - http://ezprompt.net/
