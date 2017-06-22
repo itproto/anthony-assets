@@ -1,1 +1,2 @@
 - https://css-tricks.com/reactive-uis-vanillajs-part-1-pure-functional-style/
+- https://medium.freecodecamp.com/what-if-all-your-mobile-devices-formed-a-single-screen-9c6ff01ed0c3
