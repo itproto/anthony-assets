@@ -16,6 +16,9 @@
 - http://hipsterlogogenerator.com/
 - http://www.designhill.com/tools/logo-maker
 
+# vector images
+- http://www.creativebloq.com/graphic-design/best-places-free-vector-art-1012985
+
 # repos
 - https://github.com/wagerfield/flat-surface-shader (https://maxoffsky.com/maxoffsky-blog/free-wallpapers-generator-delaunay-triangulation-patterns/)
 
