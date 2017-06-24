@@ -1,3 +1,4 @@
 - https://mijingo.com/lessons/splitting-up-a-git-repository/
 - https://mijingo.com/blog/understanding-git-log
 - https://mijingo.com/lessons/what-is-a-bare-git-repository/
+- https://mijingo.com/git-essentials
