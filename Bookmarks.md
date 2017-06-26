@@ -30,6 +30,7 @@
 - https://iconstore.co/icons/appliances-icons/
 - https://tympanus.net/codrops/2015/12/23/freebie-colored-line-icons-svg-ai-png/
 - http://www.icojam.com/blog/?p=668
+- https://saeedalipoor.github.io/icono/
 
 # tools
 - https://vectr.com
