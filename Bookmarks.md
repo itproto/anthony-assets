@@ -31,6 +31,7 @@
 - https://tympanus.net/codrops/2015/12/23/freebie-colored-line-icons-svg-ai-png/
 - http://www.icojam.com/blog/?p=668
 - https://saeedalipoor.github.io/icono/
+- https://onextrapixel.com/29-free-stunning-web-icons-sets-to-enhance-your-web-design/
 
 # tools
 - https://vectr.com
