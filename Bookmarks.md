@@ -57,6 +57,7 @@
 
 # color palets
 - https://www.materialui.co/
+- https://coolors.co/
 
 # blogs
 - https://alligator.io/
