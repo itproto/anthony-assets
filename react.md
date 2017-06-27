@@ -8,3 +8,6 @@
 
 ### Styled Components
 - https://medium.com/styled-components/announcing-primitives-support-for-truly-universal-component-systems-5772c7d14bc7
+
+### projects
+- https://codedaily.io/tutorials/7/Create-a-Dynamic-Animated-Notification-in-React-Native
