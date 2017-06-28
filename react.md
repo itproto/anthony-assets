@@ -16,3 +16,5 @@
 ### Learning Path
 - https://github.com/petehunt/react-howto
 - http://www.react.express/
+- http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
+- https://medium.freecodecamp.org/beginner-s-guide-to-react-router-53094349669
