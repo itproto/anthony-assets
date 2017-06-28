@@ -19,3 +19,4 @@
 - http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
 - https://medium.freecodecamp.org/beginner-s-guide-to-react-router-53094349669
 - https://medium.freecodecamp.org/tagged/web-development
+- http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
