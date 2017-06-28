@@ -12,3 +12,6 @@
 
 ### projects
 - https://codedaily.io/tutorials/7/Create-a-Dynamic-Animated-Notification-in-React-Native
+
+### Learning Path
+- https://github.com/petehunt/react-howto
