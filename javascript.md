@@ -5,3 +5,7 @@
 ### Tools
 - https://www.sitepoint.com/getting-started-with-codemods/
 - https://www.npmjs.com/package/quill
+
+
+### Projects
+- https://www.youtube.com/watch?v=ZTBekkqA2rM
