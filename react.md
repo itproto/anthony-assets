@@ -24,3 +24,4 @@
 ### Redux
 - https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree
 - http://redux.js.org/docs/introduction/
+- https://egghead.io/lessons/javascript-redux-describing-state-changes-with-actions
