@@ -36,6 +36,7 @@
 # tools
 - https://vectr.com
 - http://www.typographyeditor.com/
+- https://www.torproject.org/projects/torbrowser.html.en
 
 # Egghead.io
 - https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-publishing-to-npm
