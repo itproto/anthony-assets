@@ -13,6 +13,7 @@
 ### projects
 - https://codedaily.io/tutorials/7/Create-a-Dynamic-Animated-Notification-in-React-Native
 - https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568
+- https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow
 
 ### Learning Path
 - https://github.com/petehunt/react-howto
