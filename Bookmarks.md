@@ -9,6 +9,10 @@
 - https://patternizer.com/fo74
 - http://eskimoblood.github.io/gerstnerizer/
 
+# pattern generators
+- http://www.heropatterns.com/
+- http://iros.github.io/patternfills/
+
 # logo generators
 - https://www.shopify.com/tools/logo-maker
 - https://www.ucraft.com/free-logo-maker
@@ -38,6 +42,7 @@
 - http://www.typographyeditor.com/
 - https://www.torproject.org/projects/torbrowser.html.en
 - https://component.io/
+- http://panda.network/
 
 # Egghead.io
 - https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-publishing-to-npm
@@ -107,6 +112,11 @@
 - https://github.com/codewithtim/ReactJSTutorial/blob/master/Lecture%201%20Plain%20JS%20Component/2%20-%20End/index.html
 - https://www.youtube.com/watch?v=Y0r3mXh0Jag&list=PLoAsubXIl8uKWBxNNZL_-OuXtcu82-aFN
 - https://scotch.io/tutorials/build-a-react-flux-app-with-user-authentication
+
+# react projects
+- https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568
+- https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-reactjs-add-post--cms-28579
+- https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-part-3-add-display-post--cms-28685
 
 # command prompt
 - http://ezprompt.net/
