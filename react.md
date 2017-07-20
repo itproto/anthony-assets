@@ -35,3 +35,4 @@
 
 ### YOUTUBE
 - https://m.youtube.com/watch?v=G1eW3Oi6uoc
+- https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b
