@@ -44,6 +44,7 @@
 - https://www.torproject.org/projects/torbrowser.html.en
 - https://component.io/
 - http://panda.network/
+- http://htmlcolorcodes.com/
 
 # Egghead.io
 - https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-publishing-to-npm
