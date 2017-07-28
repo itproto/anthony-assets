@@ -45,6 +45,7 @@
 - https://component.io/
 - http://panda.network/
 - http://htmlcolorcodes.com/
+- http://www194.lunapic.com/editor/
 
 # Egghead.io
 - https://egghead.io/lessons/javascript-how-to-write-a-javascript-library-publishing-to-npm
