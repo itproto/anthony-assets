@@ -1,0 +1,1 @@
+- http://blog.88mph.io/2017/07/28/understanding-service-workers/
