@@ -15,6 +15,7 @@
 - https://code.tutsplus.com/tutorials/creating-a-blogging-app-using-react-user-sign-in--cms-28568
 - https://scotch.io/tutorials/build-a-bookshop-with-react-redux-i-react-redux-flow
 - https://codeburst.io/its-easy-setting-up-react-and-webpack-eb9ecaef5094
+- https://www.twilio.com/blog/2015/11/reactjs-tutorial-call-monitoring-with-react-express-and-socket-io.html
 
 ### Learning Path
 - https://github.com/petehunt/react-howto
@@ -23,6 +24,7 @@
 - https://medium.freecodecamp.org/beginner-s-guide-to-react-router-53094349669
 - https://medium.freecodecamp.org/tagged/web-development
 - http://developer.telerik.com/featured/5-steps-for-learning-react-application-development/
+- https://reactjs.co/tutorials/react-convention/
 
 ### Redux
 - https://egghead.io/lessons/javascript-redux-the-single-immutable-state-tree
