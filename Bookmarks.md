@@ -80,6 +80,7 @@
 - http://sidebar.io/
 - https://scotch.io/
 - https://www.hotjs.net/
+- https://remzolotykh.net/
 
 # angular 4
 - https://blog.sagipl.com/angular-4-features-and-how-to-upgrade-angular-4/
