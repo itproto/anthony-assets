@@ -1,1 +1,2 @@
 - https://my.wealthsimple.com/app/public/survey/risk
+- https://www.quantopian.com/tutorials/getting-started#lesson1
