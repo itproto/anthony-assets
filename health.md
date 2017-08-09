@@ -1,1 +1,2 @@
 - https://www.nytimes.com/2017/07/14/opinion/sunday/alzheimers-cure-south-america.html
+- http://www.sciencealert.com/new-nanochip-devices-could-heal-organs-with-a-single-touch
