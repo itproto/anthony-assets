@@ -2,3 +2,4 @@
 - https://mijingo.com/blog/understanding-git-log
 - https://mijingo.com/lessons/what-is-a-bare-git-repository/
 - https://mijingo.com/git-essentials
+- https://sentheon.com/blog/git-cheat-sheet.html#.WYt-A4jyuHs
