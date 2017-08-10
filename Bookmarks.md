@@ -146,3 +146,6 @@
 
 # templates
 - https://mobirise.com/bootstrap-template/one-page.html
+
+# investing
+- https://www.quantopian.com/posts/top-10s-of-2016-the-most-cloned-backtests-and-notebooks
