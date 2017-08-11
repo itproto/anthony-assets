@@ -8,6 +8,7 @@
 - http://btmills.github.io/geopattern/geopattern.html
 - https://patternizer.com/fo74
 - http://eskimoblood.github.io/gerstnerizer/
+- https://www.youtube.com/watch?v=Qo86UfR2qSA
 
 # pattern generators
 - http://www.heropatterns.com/
