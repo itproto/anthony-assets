@@ -10,6 +10,7 @@
 - http://eskimoblood.github.io/gerstnerizer/
 - https://www.youtube.com/watch?v=Qo86UfR2qSA
 - https://www.forbes.com/sites/tomaslaurinavicius/2016/03/07/free-stock-photos/#2bb1c42e3624
+- http://vincentgarreau.com/particles.js/
 
 # pattern generators
 - http://www.heropatterns.com/
