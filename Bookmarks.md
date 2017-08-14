@@ -155,4 +155,8 @@
 - https://www.quantopian.com/posts/top-10s-of-2016-the-most-cloned-backtests-and-notebooks
 
 # mean
-- - https://www.youtube.com/watch?v=Tw-rskOmcMM
+- https://www.youtube.com/watch?v=Tw-rskOmcMM
+
+#javascript
+- http://burakkanber.com/blog/modeling-physics-javascript-gravity-and-drag/
+
