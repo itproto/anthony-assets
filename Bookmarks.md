@@ -94,6 +94,7 @@
 - https://developer.atlassian.com/blog/2015/11/scripting-with-node/
 - https://www.sitepoint.com/javascript-command-line-interface-cli-node-js/
 - https://jsao.io/2017/06/how-to-get-use-and-close-a-db-connection-using-the-async-module/
+- http://codingsans.com/blog/node-config-best-practices
 
 # webpack
 - https://www.youtube.com/watch?v=QH94CXVv3UE
