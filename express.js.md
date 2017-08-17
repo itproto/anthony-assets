@@ -1,2 +1,3 @@
 - http://stackabuse.com/get-query-strings-and-parameters-in-express-js/
 - http://thecodebarbarian.com/80-20-guide-to-express-error-handling.html
+- https://hackernoon.com/unit-testing-node-js-38cf2b7e1a41
