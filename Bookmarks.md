@@ -162,3 +162,5 @@
 #javascript
 - http://burakkanber.com/blog/modeling-physics-javascript-gravity-and-drag/
 
+#jquery
+- https://blog.adam-marsden.co.uk/minimal-page-transitions-with-jquery-css-d97f692d5292
