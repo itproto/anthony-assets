@@ -1,2 +1,3 @@
 - https://www.quantopian.com/posts/sample-algo-vwap-with-variable-short-slash-long-volumes-1
 - https://stockrow.com/screener/6cd1aa6c-e8d2-42bb-bb89-0e6b36a82809
+- http://www.macrotrends.net/stocks/charts/XOM/market-cap/exxon-mobil-market-cap-history
