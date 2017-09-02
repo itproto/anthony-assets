@@ -2,3 +2,4 @@
 - https://stockrow.com/screener/6cd1aa6c-e8d2-42bb-bb89-0e6b36a82809
 - http://www.macrotrends.net/stocks/charts/XOM/market-cap/exxon-mobil-market-cap-history
 - http://www.wikinvest.com/stock/Exxon_Mobil_(XOM)/Data/Market_Capitalization/1996?ref=chart
+- https://ycharts.com/companies/RDS.B/market_cap
