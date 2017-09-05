@@ -3,3 +3,4 @@
 - https://mijingo.com/lessons/what-is-a-bare-git-repository/
 - https://mijingo.com/git-essentials
 - https://sentheon.com/blog/git-cheat-sheet.html#.WYt-A4jyuHs
+- https://gist.github.com/eashish93/3eca6a90fef1ea6e586b7ec211ff72a5
