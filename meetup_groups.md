@@ -1,0 +1,2 @@
+- https://www.meetup.com/NY-JavaScript/events/242620898/
+- https://www.meetup.com/NY-Out-of-State-Real-Estate-Investment-Meetup/events/communications/
