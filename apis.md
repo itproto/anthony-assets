@@ -1,1 +1,2 @@
 - https://www.alphavantage.co/documentation/
+- https://iextrading.com/developer/performance/
