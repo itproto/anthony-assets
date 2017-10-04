@@ -1,1 +1,2 @@
 - http://www.hustlermoneyblog.com/buy-sell-staples-gift-cards/
+- http://www.hustlermoneyblog.com/best-gift-cards/
