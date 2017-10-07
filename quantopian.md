@@ -1,1 +1,2 @@
 - https://www.quantopian.com/posts/rsi-calculation-daily-rsi-in-minute-mode-using-data-dot-history-based-on-stockcharts-dot-com
+- https://www.quantopian.com/posts/how-to-pass-information-for-backtest-in-research-notebook
