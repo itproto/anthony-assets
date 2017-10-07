@@ -3,3 +3,4 @@
 - https://www.indeed.com/cmp/Company/jobs/Data-Analysis-Instructor-d9921eaeb3a47bfe?sjdu=QwrRXKrqZ3CNX5W-O9jEvfjoPjlrjkkqbpAP1tAwhZlXg_65ggkGosoO-adt_CGy6sBwDQUf71FRqsBBoGAoJiTUvi_3l643UGUM-Yo9yuc
 - https://newyork.craigslist.org/mnh/sof/d/data-analyst/6335080879.html
 - https://newyork.craigslist.org/brk/lab/d/driving-instructor-wanted/6320007007.html
+- https://newyork.craigslist.org/wch/sls/d/part-time-customer-work/6333597114.html
