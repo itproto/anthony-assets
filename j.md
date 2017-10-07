@@ -1,1 +1,2 @@
 - https://fleet.postmates.com/?utm_source=Indeed&utm_medium=JobBoard&utm_campaign=NYC&utm_term=New%20York
+- https://www.indeed.com/cmp/Online-Trading-Academy/jobs/Presenter-a7019692aed89c86?sjdu=QwrRXKrqZ3CNX5W-O9jEvQ2SRIES0BVslZX8Z3MdIIMM3rL998NW5pJ2YMdb-IHmXMaQzpxyz7i8fWT4yVK_iA
