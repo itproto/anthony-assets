@@ -1,0 +1,1 @@
+- https://allstocknews.com/2017/10/10/finding-support-and-resistance-on-a-chart-jpmorgan-chase-co-jpm-prudential-financial-inc-pru/
