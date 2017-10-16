@@ -6,3 +6,4 @@
 - http://www.wolframalpha.com/input/?i=Royal+Dutch+Shell+historical+market+capitalization+for+03%2F31%2F2006
 - http://paststat.com/backtesting
 - https://www.trade-ideas.com/ticky/ticky.html?symbol=aapl
+- https://www.stockmonitor.com/blog/how-to-find-breakout-stocks-for-trading/
