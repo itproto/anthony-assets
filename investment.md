@@ -4,3 +4,4 @@
 - http://www.wikinvest.com/stock/Exxon_Mobil_(XOM)/Data/Market_Capitalization/1996?ref=chart
 - https://ycharts.com/companies/RDS.B/market_cap
 - http://www.wolframalpha.com/input/?i=Royal+Dutch+Shell+historical+market+capitalization+for+03%2F31%2F2006
+- http://paststat.com/backtesting
