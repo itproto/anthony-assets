@@ -7,3 +7,4 @@
 - http://paststat.com/backtesting
 - https://www.trade-ideas.com/ticky/ticky.html?symbol=aapl
 - https://www.stockmonitor.com/blog/how-to-find-breakout-stocks-for-trading/
+- https://www.alpaca.ai/alpacascan/
