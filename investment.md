@@ -13,3 +13,4 @@
 - https://www.programmableweb.com/news/96-stocks-apis-bloomberg-nasdaq-and-etrade/2013/05/22
 - https://algoriz.com/manager/
 - https://www.metatrader4.com/en
+- http://stockdomo.com/6-month-swing-trading-log-46-stockdomo-portfolio-return-versus-7-7-sp-500-index/
