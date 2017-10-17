@@ -8,3 +8,4 @@
 - https://www.trade-ideas.com/ticky/ticky.html?symbol=aapl
 - https://www.stockmonitor.com/blog/how-to-find-breakout-stocks-for-trading/
 - https://www.alpaca.ai/alpacascan/
+- http://www.morpheustrading.com/blog/best-stock-breakouts/
