@@ -11,3 +11,4 @@
 - http://www.morpheustrading.com/blog/best-stock-breakouts/
 - https://www.trade.it/documentation?perl#
 - https://www.programmableweb.com/news/96-stocks-apis-bloomberg-nasdaq-and-etrade/2013/05/22
+- https://algoriz.com/manager/
