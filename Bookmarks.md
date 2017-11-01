@@ -101,6 +101,7 @@
 - http://engineering.invisionapp.com/post/optimizing-webpack/
 - https://gist.github.com/sokra/27b24881210b56bbaff7
 - https://github.com/ModusCreateOrg/budgeting-sample-app-webpack2
+- https://codeburst.io/easy-guide-for-webpack-2-0-from-scratch-fe508a3ce44e
 
 # projects
 - https://www.sitepoint.com/fullstack-javascript-trello-clone/
@@ -159,9 +160,9 @@
 # mean
 - https://www.youtube.com/watch?v=Tw-rskOmcMM
 
-#javascript
+# javascript
 - http://burakkanber.com/blog/modeling-physics-javascript-gravity-and-drag/
 - https://www.javatpoint.com/javascript-tutorial
 
-#jquery
+# jquery
 - https://blog.adam-marsden.co.uk/minimal-page-transitions-with-jquery-css-d97f692d5292
