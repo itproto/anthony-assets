@@ -1,2 +1,3 @@
 - https://finviz.com/screener.ashx?v=171&f=an_recom_buybetter,earningsdate_todayafter,sh_price_o20,ta_averagetruerange_o3,ta_beta_o1&ft=4&o=-marketcap
 - https://finviz.com/screener.ashx?v=171&f=an_recom_buybetter,earningsdate_todayafter,sh_price_o20,ta_averagetruerange_o2,ta_beta_o1,ta_rsi_nos40&ft=4&o=-marketcap
+- https://finviz.com/screener.ashx?v=171&f=an_recom_buybetter,earningsdate_tomorrowbefore,sh_price_o20,ta_averagetruerange_o2,ta_beta_o1,ta_rsi_nos40,ta_sma20_pa,ta_sma200_pa,ta_sma50_pa&ft=4&o=-marketcap
