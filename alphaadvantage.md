@@ -22,3 +22,6 @@ https://www.alphavantage.co/query?function=MACD&symbol=xom&interval=daily&series
 
 RSI
 https://www.alphavantage.co/query?function=RSI&symbol=xom&interval=daily&time_period=14&series_type=open&apikey=2TVZNVATCKZ24XRP&datatype=csv&outputsize=full
+
+ATR
+https://www.alphavantage.co/query?function=ATR&symbol=xom&interval=daily&time_period=14&apikey=2TVZNVATCKZ24XRP&datatype=csv&outputsize=full
