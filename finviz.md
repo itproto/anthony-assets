@@ -8,3 +8,4 @@
 - https://finviz.com/screener.ashx?v=141&f=sh_curvol_o200,sh_price_o10,ta_change_u,ta_changeopen_u,ta_perf_dup,ta_perf2_d15o&ft=4
 
 - http://www.nasdaq.com/extended-trading/premarket-mostactive.aspx
+- https://www.chartmill.com/analyze.php#/ALB
