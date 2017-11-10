@@ -16,3 +16,5 @@
 - http://stockdomo.com/6-month-swing-trading-log-46-stockdomo-portfolio-return-versus-7-7-sp-500-index/
 - https://www.udacity.com/course/machine-learning-for-trading--ud501?autoenroll=true#
 - https://www.members.stockmonitor.com/backtest/create/
+- https://www.tradingview.com/chart/
+
