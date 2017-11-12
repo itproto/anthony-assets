@@ -11,5 +11,5 @@
 - https://www.chartmill.com/analyze.php#/ALB
 
 
-#Buy at near open and sell at 2% profit
+# Buy at near open and sell at 2% profit
 - https://finviz.com/screener.ashx?v=111&f=an_recom_buybetter,sh_avgvol_o500,sh_price_o10,sh_relvol_o1.5,ta_averagetruerange_o2,ta_highlow50d_nh,ta_rsi_nos50,ta_sma20_pa,ta_sma200_pa,ta_sma50_pa&ft=4
