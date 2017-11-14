@@ -16,3 +16,6 @@
 
 # Buy 3 days before earnings, on the first day by around 3:00 
 - https://finviz.com/screener.ashx?v=161&f=fa_debteq_u1,fa_epsyoy1_pos,fa_estltgrowth_pos,fa_pfcf_u20,fa_roe_pos,fa_roi_pos,sh_avgvol_o500,sh_price_o10,sh_relvol_o1.5,ta_highlow52w_b0to5h,ta_sma20_pa,ta_sma200_pa,ta_sma50_pa&ft=4
+
+# Earnings setup 
+- https://finviz.com/screener.ashx?v=161&f=earningsdate_todayafter,sh_avgvol_o500,sh_price_o10,sh_relvol_o1.5,ta_beta_o1&ft=4
