@@ -19,3 +19,5 @@
 
 # Earnings setup 
 - https://finviz.com/screener.ashx?v=161&f=earningsdate_todayafter,sh_avgvol_o500,sh_price_o10,sh_relvol_o1.5,ta_beta_o1&ft=4
+
+- https://www.youtube.com/watch?v=-TUK_FJclck
