@@ -21,3 +21,6 @@
 - https://finviz.com/screener.ashx?v=161&f=earningsdate_todayafter,sh_avgvol_o500,sh_price_o10,sh_relvol_o1.5,ta_beta_o1&ft=4
 
 - https://www.youtube.com/watch?v=-TUK_FJclck
+
+
+- https://finviz.com/screener.ashx?v=141&f=earningsdate_tomorrowafter,sh_avgvol_o200,sh_price_o10,ta_beta_o1,ta_sma20_pa,ta_sma200_pa,ta_sma50_pa&ft=4&o=earningsdate
