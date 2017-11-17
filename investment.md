@@ -17,4 +17,4 @@
 - https://www.udacity.com/course/machine-learning-for-trading--ud501?autoenroll=true#
 - https://www.members.stockmonitor.com/backtest/create/
 - https://www.tradingview.com/chart/
-
+- https://quantpedia.com/Links/Backtesters
