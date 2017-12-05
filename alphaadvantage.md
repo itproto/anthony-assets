@@ -27,4 +27,4 @@ ATR
 https://www.alphavantage.co/query?function=ATR&symbol=xom&interval=daily&time_period=14&apikey=2TVZNVATCKZ24XRP&datatype=csv&outputsize=full
 
 Stoch
-https://www.alphavantage.co/query?function=STOCH&symbol=xom&interval=15min&slowkmatype=1&slowdmatype=1&apikey=2TVZNVATCKZ24XRP&outputsize=full
+https://www.alphavantage.co/query?function=STOCH&symbol=xom&interval=daily&slowkmatype=1&slowdmatype=1&apikey=2TVZNVATCKZ24XRP&outputsize=full
