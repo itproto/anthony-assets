@@ -4,3 +4,6 @@
 - https://theme.works
 # Sell Courses
 - https://premium.wpmudev.org/blog/coursepress-create-sell-awesome-courses-in-wordpress-for-free/
+
+# Creating Workdpress Theme
+- https://www.youtube.com/watch?v=ViZLtFIcSfo&index=1&list=PLriKzYyLb28kpEnFFi9_vJWPf5-_7d3rX
