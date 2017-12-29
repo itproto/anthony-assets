@@ -3,3 +3,4 @@
 - https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 - https://react.rocks/tag/Realtime
 - https://codeburst.io/creating-a-rock-paper-and-scissors-game-in-angular-9c16619486a9
+- https://medium.freecodecamp.org/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1
