@@ -4,3 +4,4 @@
 - https://react.rocks/tag/Realtime
 - https://codeburst.io/creating-a-rock-paper-and-scissors-game-in-angular-9c16619486a9
 - https://medium.freecodecamp.org/how-to-recreate-mediums-article-layout-with-css-grid-b4608792bad1
+- https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425
