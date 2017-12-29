@@ -2,3 +2,4 @@
 - https://www.quantopian.com/tutorials/getting-started#lesson1
 - https://blog.pusher.com/making-reactjs-realtime-with-websockets/
 - https://react.rocks/tag/Realtime
+- https://codeburst.io/creating-a-rock-paper-and-scissors-game-in-angular-9c16619486a9
