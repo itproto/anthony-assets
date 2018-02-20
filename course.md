@@ -1,2 +1,3 @@
 - https://github.com/GitbookIO/javascript
 - https://teachyourselfcs.com/
+- http://javascript.info/
