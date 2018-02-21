@@ -1,1 +1,2 @@
 - http://www.utteraccess.com/wiki/Access_and_the_web_HTML_Object_Library
+- http://www.vbforums.com/showthread.php?353415-RESOLVED-Webbrowser-Control-Make-it-Editable
