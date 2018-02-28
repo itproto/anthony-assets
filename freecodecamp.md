@@ -1,1 +1,5 @@
-- https://youtu.be/x_fHXt9V3zQ
+- https://youtu.be/x_fHXt9V3zQ - building a chatbot
+- https://youtu.be/BFMyUgF6I8Y - bash tutorial
+- https://youtu.be/fsCjFHuMXj0 - build express api
+- https://youtu.be/1rIP81hjs2U - basics to react
+- https://youtu.be/PM0_Er3SvFQ - game of life project
