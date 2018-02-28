@@ -3,3 +3,9 @@
 - https://youtu.be/fsCjFHuMXj0 - build express api
 - https://youtu.be/1rIP81hjs2U - basics to react
 - https://youtu.be/PM0_Er3SvFQ - game of life project
+- https://youtu.be/jhEfT9YjLcU - aframe
+- https://youtu.be/P2TcQ3h0ipQ - tic-tac-toe game
+- https://youtu.be/Fa4cRMaTDUI - build webapp with vue and express
+- https://youtu.be/KhtEmR2A1Fw - javascript tutorial
+- https://youtu.be/bcPahhyYEIk - talking clock
+- https://youtu.be/OUPBEpfBEXo- - live coding with jesse
