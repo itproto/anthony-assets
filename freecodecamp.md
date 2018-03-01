@@ -9,3 +9,4 @@
 - https://youtu.be/KhtEmR2A1Fw - javascript tutorial
 - https://youtu.be/bcPahhyYEIk - talking clock
 - https://youtu.be/OUPBEpfBEXo- - live coding with jesse
+- https://www.youtube.com/watch?v=XTyuE1AMX2A&feature=push-lsb&attr_tag=XSwYYln50LLPAXLM-6 - Wordpress API
