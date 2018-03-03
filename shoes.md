@@ -2,3 +2,4 @@
 - https://www.zappos.com/p/cole-haan-adams-chukka-bourbon-suede/product/8869430/color/175609?zlfid=191&ref=pd_detail_3_sims_v
 - https://www.zappos.com/p/skechers-relaxed-fit-expected-gomel-black-knitted-mesh/product/8830516/color/671279
 - https://www.skechers.com/en-us/style/65294/relaxed-fit-walson-morado/bbk
+- https://www.belk.com/p/clarks-hinman-mid-dark-and-tan-shoes/390018426127747.html?dwvar_390018426127747_color=914296245090#q=clarks%252Bhinman%252Btan%252Bsuede&lang=default&start=1
