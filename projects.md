@@ -10,3 +10,4 @@
 - https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/practical-exercises-the-to-do-list
 - https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/socket-io-let-s-go-to-real-time
 - https://openclassrooms.com/courses/ultra-fast-applications-using-node-js/practical-exercise-the-super-chat
+- https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34
