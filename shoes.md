@@ -8,3 +8,13 @@
 - https://www.youtube.com/watch?v=Or_G3vF5ZpI
 - https://www.youtube.com/watch?v=qgPTuIedytU
 - https://www.menswearhouse.com/mens-shoes/mens-boots/lucky-brand-mason-black-chukka-boot-416Y02
+- https://www.menswearhouse.com/mens-shoes/mens-dress-shoes/todd-welsh-tan-bike-toe-oxford-418D03
+- https://www.menswearhouse.com/mens-shoes/mens-casual-shoes/cole-haan-shortwing-cognac-wingtip-oxfords-40ZC05
+- https://www.menswearhouse.com/mens-shoes/mens-casual-shoes/belvedere-james-dark-gray-leather-sneakers-41AD04
+- https://www.menswearhouse.com/mens-shoes/mens-dress-shoes/belvedere-bay-bridge-brown-dress-shoes-420603
+- https://www.menswearhouse.com/mens-shoes/mens-boots/j-murphybyjohnstonmurphyblackchukkaboot-412T02
+- https://www.menswearhouse.com/mens-shoes/mens-dress-shoes/todd-welsh-eastman-brown-lace-up-shoes-40XX03
+- https://www.menswearhouse.com/mens-shoes/mens-casual-shoes/cole-haan-zerogrand-black-stitchlite-oxfords-41CX02
+- https://www.menswearhouse.com/mens-shoes/mens-casual-shoes/florsheim-crew-lo-brown-sneakers-414P03
+- https://www.menswearhouse.com/mens-shoes/mens-dress-shoes/calvin-klein-edgar-black-bike-toe-oxfords-40YE02
+- https://www.menswearhouse.com/mens-shoes/mens-dress-shoes/calvin-klein-gunther-black-lace-up-shoes-40AL02
