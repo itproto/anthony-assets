@@ -7,3 +7,4 @@
 - https://www.saksoff5th.com/main/ProductDetail.jsp?PRODUCT%3C%3Eprd_id=845524442301487&site_refer=DFA_RMK_O5_CRITEO
 - https://www.youtube.com/watch?v=Or_G3vF5ZpI
 - https://www.youtube.com/watch?v=qgPTuIedytU
+- https://www.menswearhouse.com/mens-shoes/mens-boots/lucky-brand-mason-black-chukka-boot-416Y02
