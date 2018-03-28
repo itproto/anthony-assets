@@ -1,1 +1,2 @@
 - https://codeburst.io/
+- https://tech.io/
