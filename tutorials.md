@@ -1,1 +1,2 @@
 - https://sabe.io/
+- http://web-engineering.info/JsFrontendApp#MinimalApp
