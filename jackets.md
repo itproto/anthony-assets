@@ -2,3 +2,4 @@
 - https://www.saksoff5th.com/main/ProductDetail.jsp?PRODUCT%3C%3Eprd_id=845524441852778&site_refer=CSE_GGLPRADS001_OFF&gclid=CjwKCAiA8vPUBRAyEiwA8F1oDF_Haah8PsvGkQ38Q_Leqgpy4odeBhGj1UzrWgL9s_wB_TTz1GiRuhoC6l0QAvD_BwE&gclsrc=aw.ds
 - https://www.nordstromrack.com/shop/product/1462545/vince-camuto-diamond-quilted-full-zip-jacket?color=NAVY
 - https://www.menswearhouse.com/mens-clothes/mens-outerwear/mens-jackets/pronto-uomo-navy-quilted-modern-fit-jacket-716U01
+- https://www.macys.com/shop/product/london-fog-mens-corduroy-trim-layered-quilted-jacket?ID=2872449&CategoryID=3763
