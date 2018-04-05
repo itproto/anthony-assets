@@ -3,3 +3,4 @@
 - https://www.nordstromrack.com/shop/product/1462545/vince-camuto-diamond-quilted-full-zip-jacket?color=NAVY
 - https://www.menswearhouse.com/mens-clothes/mens-outerwear/mens-jackets/pronto-uomo-navy-quilted-modern-fit-jacket-716U01
 - https://www.macys.com/shop/product/london-fog-mens-corduroy-trim-layered-quilted-jacket?ID=2872449&CategoryID=3763
+- https://www.londonfog.com/men/outerwear/view-all-outerwear/cresskill-quilted-field-coat.html
