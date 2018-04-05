@@ -4,3 +4,4 @@
 - https://www.menswearhouse.com/mens-clothes/mens-outerwear/mens-jackets/pronto-uomo-navy-quilted-modern-fit-jacket-716U01
 - https://www.macys.com/shop/product/london-fog-mens-corduroy-trim-layered-quilted-jacket?ID=2872449&CategoryID=3763
 - https://www.londonfog.com/men/outerwear/view-all-outerwear/cresskill-quilted-field-coat.html
+- https://www.amazon.com/VEDONEIRE-Quilted-Jacket-leather-padded/dp/B00EQ7H7G8/ref=sr_1_2?ie=UTF8&qid=1522894291&sr=8-2&keywords=VEDONEIRE+Mens+Quilted+Jacket
