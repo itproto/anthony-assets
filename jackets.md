@@ -7,3 +7,4 @@
 - https://www.amazon.com/VEDONEIRE-Quilted-Jacket-leather-padded/dp/B00EQ7H7G8/ref=sr_1_2?ie=UTF8&qid=1522894291&sr=8-2&keywords=VEDONEIRE+Mens+Quilted+Jacket
 - https://shop.nordstrom.com/s/vince-camuto-diamond-quilted-full-zip-jacket-online-only/3734445?cm_mmc=display_ret_pers-_-gemini-_-9639315433-_-DPA
 - https://www.macys.com/shop/product/tommy-hilfiger-four-pocket-quilted-jacket?ID=2339113&CategoryID=3763&swatchColor=Black#fn=sp%3D1%26spc%3D34%26ruleId%3D106%26kws%3Dmens%20quilted%20jacket%26ackws%3Dquilted%20jac%26searchType%3Dac%26searchPass%3DexactMultiMatch%26slotId%3D27
+- https://www.macys.com/shop/product/tommy-hilfiger-four-pocket-quilted-jacket?ID=2339113&CategoryID=3763&tdp=cm_app~zMCOM-NAVAPP~xcm_zone~zPDP_ZONE_A~xcm_choiceId~zcidM05MAS-ce7b754f-b765-401a-b7bd-1a4075c57a95%40H7%40customers%2Balso%2Bshopped%243763%242339113~xcm_pos~zPos2
