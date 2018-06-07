@@ -3,3 +3,5 @@
 - https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-1/
 - http://www.humbletraders.com/candlestick-patterns/
 - https://www.stockmonitor.com/blog/best-4-candlestick-patterns-to-scan-and-monitor/
+- https://bullishbears.com/bullish-candlesticks/
+- https://www.moneylab.co.za/trading/strategies/3-most-profitable-candlestick-patterns-and-how-use-them
