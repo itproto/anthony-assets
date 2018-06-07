@@ -1,3 +1,4 @@
 - http://forums.worden.com/default.aspx?g=posts&t=7989
 - https://books.google.com/books?id=lfEPBwAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
 - https://zerodha.com/varsity/chapter/single-candlestick-patterns-part-1/
+- http://www.humbletraders.com/candlestick-patterns/
