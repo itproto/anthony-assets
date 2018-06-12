@@ -28,3 +28,6 @@ https://www.alphavantage.co/query?function=ATR&symbol=xom&interval=daily&time_pe
 
 Stoch
 https://www.alphavantage.co/query?function=STOCH&symbol=xom&interval=daily&slowkmatype=1&slowdmatype=1&apikey=2TVZNVATCKZ24XRP&outputsize=full
+
+BBAND
+https://www.alphavantage.co/query?function=BBANDS&symbol=el&interval=daily&time_period=20&series_type=close&nbdevup=2&nbdevdn=2&apikey=2TVZNVATCKZ24XRP
